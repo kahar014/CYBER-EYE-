@@ -10,3 +10,5 @@ Includes a colorful terminal banner for visual appeal.
 Requirements
 Python 3.x
 googlesearch-python library (install via pip)
+
+
